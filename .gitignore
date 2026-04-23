@@ -1,0 +1,6 @@
+lab-agent/
+__pycache__/
+.env
+.adk/
+*.pyc
+.DS_Store
